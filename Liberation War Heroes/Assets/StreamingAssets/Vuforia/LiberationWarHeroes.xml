@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ziaur_Rahman" size="2.000000 2.514286" />
+    <ImageTarget name="Nur_Mohammad_Shekh" size="2.000000 2.360465" />
+    <ImageTarget name="Munsi_Abdur_Rouf" size="2.000000 2.681319" />
+    <ImageTarget name="Mostafa_Kamal" size="2.000000 2.632727" />
+    <ImageTarget name="Mohammad_Ataul_Goni_Osmani" size="2.000000 2.418118" />
+    <ImageTarget name="Khaled_Mosharraf" size="2.000000 2.586207" />
+    <ImageTarget name="Jahanara_Imam" size="2.000000 2.731429" />
+    <ImageTarget name="Ruhul_Amin" size="2.000000 2.650000" />
+    <ImageTarget name="Matiur_Rahman" size="2.000000 2.660000" />
+    <ImageTarget name="Hamidur_Rahman" size="2.000000 1.126667" />
+    <ImageTarget name="Mohiuddin_Jahangir" size="2.000000 2.542857" />
+    <ImageTarget name="Mujibur_Rahman" size="2.000000 2.789474" />
+  </Tracking>
+</QCARConfig>
